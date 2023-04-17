@@ -12,7 +12,7 @@ function App() {
     <>
      <Navbar/>
      <Hero/>
-     <About/>
+     <About/>     
      <Services/>
      <Tours/>
      <Footer/>
